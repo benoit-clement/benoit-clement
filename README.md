@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @benoit-clement
-- 👀 I’m interested in engineering of project
+- 👀 I’m interested in engineering of projects
 
 <!---
 benoit-clement/benoit-clement is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
